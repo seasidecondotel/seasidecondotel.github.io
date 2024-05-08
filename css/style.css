@@ -141,14 +141,14 @@ section {
 
 #fb-con {
   position: fixed;
-  bottom: 4%;
-  right: 4%;
-  transform: translateX(0%);
+  bottom: 5%;
+  right: 2%;
+  transform: translateX(0%) translateY(1%);
 
   height: 60px;
   width: 60px;
   opacity: 1;
-  background: var(--dark-blue-color);
+  background: var(--highlight-blue-color);
   border-radius: 100%;
   overflow: hidden;
 
