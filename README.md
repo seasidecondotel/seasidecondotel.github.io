@@ -1,0 +1,1 @@
+# seasidecondotel.github.io
